@@ -14,4 +14,4 @@
 8. Terakhir, login terlebih dahulu isi username dan password:
    username: admin
    password: admin
-<img width="768" height="1366" alt="crud_laundry" src="https://github.com/user-attachments/assets/e9c9cd75-1de1-47f6-a734-d27e0211d82e" />
+   <img width="1366" height="768" alt="crud_laundry2" src="https://github.com/user-attachments/assets/9a5a8fc8-da36-4cad-82e9-87a0e3639d7f" />
